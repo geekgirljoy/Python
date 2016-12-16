@@ -6,7 +6,7 @@ Essentially this repository is an ever growing backup of all my public Python wo
 ##Python Projects
 
 ######[NxNequals](Projects/NxNequals)
-I found that I needed the "times tables" precomputed and saved as newline delimited strings for a prject that I am working on so I created NxEquals.py to generate the .dat files for me. It will generate output that includes the equation 'n times n equals sum' as well as simply the resulting sum in a different file depending on if the third parameter (equation) is set to True or False
+I found that I needed the "times tables" precomputed and saved as newline delimited strings for a prject that I am working on so I created NxNequals.py to generate the .dat files for me. It will generate output that includes the equation 'n times n equals sum' as well as simply the resulting sum in a different file depending on if the third parameter (equation) is set to True or False
 
 ######[NxNequals.py](Projects/NxNequals/NxNequals.py)
 ######[Example output with equation](Projects/NxNequals/89Times(n)Equations.dat)
