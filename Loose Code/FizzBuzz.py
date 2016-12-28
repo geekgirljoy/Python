@@ -1,4 +1,5 @@
-# https://en.wikipedia.org/wiki/Fizz_buzz
+# Based on the Fizz Buzz Game and coding challenge.
+# See https://en.wikipedia.org/wiki/Fizz_buzz
 
 def fizz_buzz(val):
     if val % 5 == 0 and val % 3 == 0:
