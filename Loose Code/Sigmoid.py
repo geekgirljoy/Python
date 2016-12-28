@@ -1,5 +1,5 @@
 # This algorithm computes a Sigmoid Curve
-# Then and outputs the computed range
+# Then outputs the computed range
 # For more information: https://en.wikipedia.org/wiki/Sigmoid_function
 
 import math;
