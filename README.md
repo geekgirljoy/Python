@@ -14,11 +14,11 @@ I found that I needed the "times tables" precomputed and saved as newline delimi
 
 
 
-##Loose Code
+## Loose Code
 This folder contains stand alone code. Each does something different and is here because I want a backup of this code for any number of reasons. 
 
-######[Sigmoid.py](https://github.com/geekgirljoy/Python/blob/master/Loose%20Code/Sigmoid.py)
+###### [Sigmoid.py](https://github.com/geekgirljoy/Python/blob/master/Loose%20Code/Sigmoid.py)
 
-######[FizzBuzz.py](https://github.com/geekgirljoy/Python/blob/master/Loose%20Code/FizzBuzz.py)
+###### [FizzBuzz.py](https://github.com/geekgirljoy/Python/blob/master/Loose%20Code/FizzBuzz.py)
 
-######[nBottlesSong.py](https://github.com/geekgirljoy/Python/blob/master/Loose%20Code/nBottlesSong.py)
+###### [nBottlesSong.py](https://github.com/geekgirljoy/Python/blob/master/Loose%20Code/nBottlesSong.py)
