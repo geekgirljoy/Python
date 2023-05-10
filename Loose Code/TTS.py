@@ -3,7 +3,7 @@ import subprocess # For Mac and Linux
   
 
 # Windows OS
-if sys.platform == 'win32'
+if sys.platform == 'win32':
     import win32com.client
     speaker = win32com.client.Dispatch("SAPI.SpVoice")
     # select the voice - these depend on which are installed on your system
